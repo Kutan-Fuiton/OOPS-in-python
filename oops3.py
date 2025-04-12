@@ -36,4 +36,3 @@ class Student:
 s1 = Student("Tony Stark", [97, 88, 92])
 s1.get_avg()
 s1.hello()
-

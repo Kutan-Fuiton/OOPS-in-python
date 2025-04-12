@@ -27,15 +27,3 @@ print(s1.college_name) # ABC College
 s2 = Student("arjun",88)
 print(s2.name, s2.marks) # arjun 88
 print(s2.college_name) # ABC College
-
-
-
-
-
-
-
-
-
-
-
-
